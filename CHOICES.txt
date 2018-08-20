@@ -6,3 +6,4 @@ Third Choice: Approach Danny
 Fourth Choice: Approach Billy
 Fifth Choice: Talk to Billy directly
 Sixth Choice: Approach Helga and the Doctor
+Seventh Choice: Talk to them directly
