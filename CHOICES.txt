@@ -5,3 +5,4 @@ Second Choice: Get to work helping. Take a look around the room. Look for people
 Third Choice: Approach Danny
 Fourth Choice: Approach Billy
 Fifth Choice: Talk to Billy directly
+Sixth Choice: Approach Helga and the Doctor
