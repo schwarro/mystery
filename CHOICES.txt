@@ -8,3 +8,4 @@ Fifth Choice: Talk to Billy directly
 Sixth Choice: Approach Helga and the Doctor
 Seventh Choice: Talk to them directly
 Eighth Choice: Accuse Helga
+Ninth Choice: Accuse Billy
